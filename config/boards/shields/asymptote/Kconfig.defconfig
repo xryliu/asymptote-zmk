@@ -2,7 +2,12 @@
 # SPDX-License-Identifier: MIT
 
 if SHIELD_ASYMPTOTE
+config ZMK_BLE
+	default y
 
+config ZMK_USB
+	default y
+	
 config ZMK_KEYBOARD_NAME
     default "SliceMK ErgoDox"
 
