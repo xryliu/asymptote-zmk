@@ -4,6 +4,11 @@
 if SHIELD_ASYMPTOTE
 
 config ZMK_KEYBOARD_NAME
-    default "Asymptote"
+    default "SliceMK ErgoDox"
+
+config ZMK_SPLIT
+	default y
+
 
 endif
+
