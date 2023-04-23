@@ -23,4 +23,4 @@ include:
   - board: seeeduino_xiao_ble
     shield: asymptote
   - board: seeeduino_xiao_ble
-    shield: setting_reset   
+    shield: settings_reset   
