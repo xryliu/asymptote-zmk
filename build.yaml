@@ -22,3 +22,5 @@ include:
 #  - board: ble_chiffre
   - board: seeeduino_xiao_ble
     shield: asymptote
+  - board: seeeduino_xiao_ble
+    shield: setting_reset   
